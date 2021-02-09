@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://ivicents.es/blog/</loc>
+    <lastmod>2019-12-31T12:14:34+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ivicents.es/</loc>
+    <lastmod>2019-12-31T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ivicents.es/blog/first_blog/</loc>
+    <lastmod>2019-12-31T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ivicents.es/about/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ivicents.es/contact/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ivicents.es/portfolio/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ivicents.es/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ivicents.es/tags/</loc>
+  </url>
+  
+</urlset>
